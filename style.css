@@ -1,0 +1,74 @@
+body{
+background-image: url(img/background.jpg);
+background-position: top;
+background-size: cover;
+font-family: arial;
+}
+
+.container{
+  width: 1200px;;
+  margin: auto;
+  margin-top: 25px;
+  text-align: center;
+  padding-top: 120px;
+  padding: 3%;
+  background-color: rgba(0, 0, 0, 0.5);
+  border-radius: 20px;
+}
+
+#logo{
+  width: 250px;
+}
+
+header>h1{
+  color: lime;
+  margin-top: 10px;
+}
+
+.buttons{
+  background-color: lime;
+  padding: 15px;
+  margin-top: -15px
+}
+
+.container-monopattini{
+  width: 1000px;
+  text-align: left;
+  margin-top: 20px;
+  color: white;
+}
+
+.monopattini{
+  font-weight: bold;
+  font-size: 25px;
+  margin-top: 10px;
+  display: inline-block;
+}
+
+.info{
+  margin-top: 10px;
+}
+
+#carica-arancione{
+  background-color: Gold;
+  padding: 13px;
+  margin-right: 63.5%;
+  border: solid Gold;
+  border-radius: 8px;
+}
+
+#carica-verde{
+  background-color: limegreen;
+  padding: 13px;
+  margin-right: 37%;
+  border: solid limegreen;
+  border-radius: 8px;
+}
+
+#carica-rossa{
+  background-color: Maroon;
+  padding: 13px;
+  margin-right: 87%;
+  border: solid Maroon;
+  border-radius: 8px;
+}
